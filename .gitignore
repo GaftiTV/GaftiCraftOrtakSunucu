@@ -1,0 +1,11 @@
+lobi/cache
+lobi/libraries
+lobi/versions
+lobi/logs
+
+survival/cache
+survival/libraries
+survival/versions
+survival/logs
+
+velocity/logs
