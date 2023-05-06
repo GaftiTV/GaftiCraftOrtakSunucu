@@ -1,0 +1,17 @@
+lobi/cache
+lobi/libraries
+lobi/versions
+lobi/logs
+lobi/world
+lobi/world_nether
+lobi/world_the_end
+
+survival/cache
+survival/libraries
+survival/versions
+survival/logs
+survival/world
+survival/world_nether
+survival/world_the_end
+
+velocity/logs
